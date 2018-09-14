@@ -1,0 +1,30 @@
+[
+    {
+        "_id": "8bc2f75d-bf8b-4a70-847e-cbb73a80eaa3",
+        "fname": "oluwatobi",
+        "lname": "ogundare",
+        "email": "tobi.ogundare@gmail.com",
+        "phonenumber": "08131369861"
+    },
+    {
+        "_id": "749f6f30-b5b4-4d6d-986a-034ee06f2546",
+        "fname": "oluwatobi",
+        "lname": "ogundare",
+        "email": "tobi.ogundare@gmail.com",
+        "phonenumber": "08131369861"
+    },
+    {
+        "_id": "682fc193-58b6-42ff-8308-ce0de711c148",
+        "fname": "oluwatobi",
+        "lname": "ogundare",
+        "email": "tobi.ogundare@gmail.com",
+        "phonenumber": "08131369861a"
+    },
+    {
+        "_id": "9448c9f3-e93f-499b-b7c7-6be2ba48aca1",
+        "fname": "oluwatobi",
+        "lname": "ogundare",
+        "email": "tobi.ogundare@gmail.com",
+        "phonenumber": 8131369861
+    }
+]
